@@ -15,7 +15,6 @@ if (hacker1.length > hacker2.length) {
 for (i = 0; i < hacker1.length; i++) {
     console.log(`$(hacker1[i]) `)
 }
-
 var hacker2ver = ""
 for (j = hacker2.length - 1; j > 0; j--) {
     hacker2ver += hacker2[j]
