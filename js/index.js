@@ -12,6 +12,7 @@ if (hacker1.length > hacker2.length) {
     console.log(`wow, you both have equally long names, ${hacker1.length} characters.`)
 }
 // Iteration 3: Loops
+
 for (i = 0; i < hacker1.length; i++) {
     console.log(`$(hacker1[i]) `)
 }
